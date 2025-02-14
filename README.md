@@ -1,5 +1,8 @@
+
+
 <h1 align="center">Hi 👋, I'm Md Taizol islam</h1>
 <h3 align="center">A passionate pogrammer frontend & Full stack web developer,Newbie Ai/ML learner,Flutter app desginer,also cyber sceurity specilist.,</h3>
+<img src="freepik__adjust__87321.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdtaizol&label=Profile%20views&color=0e75b6&style=flat" alt="mdtaizol" /> </p>
 
